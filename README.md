@@ -1,6 +1,6 @@
 # ramadan_planner
 
-A new Flutter project.
+An App to plan good deeds for the month of ramadan
 
 ## Getting Started
 
